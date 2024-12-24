@@ -1,7 +1,7 @@
 # nebolab_simulator
 This repository contains simulations used in the [IEEE ACCESS](https://ieeexplore-ieee-org.libproxy.tuni.fi/abstract/document/10379586) and [IEEE CASE 2024](https://ieeexplore-ieee-org.libproxy.tuni.fi/abstract/document/10711560/).
 
-You can read and cite our works for a better capture how the algorithms work:
+You can read and cite our works for a better capture of how the algorithms work:
 1. Atman, M. W. S., Fikri, M. R., Priandana, K., & Gusrialdi, A. (2024). A Two-Layer Control Framework for Persistent Monitoring of a Large Area With a Robotic Sensor Network. IEEE Access.
 2. Fikri, M. R., Atman, M. W. S., Nikulin, Y., & Gusrialdi, A. (2024, August). Efficient Multi-Robot Task Allocation with Nonsmooth Objective Functions for Persistent Monitoring in Large Dispersed Areas. In 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE) (pp. 573-578). IEEE
 
@@ -10,3 +10,6 @@ You can read and cite our works for a better capture how the algorithms work:
 2. Go to Agrijournal_scenario.py to select the parameters
 3. Go to Agrijournal_TaskAllocation.py to double-check the algorithm (MACO used in [1], QP-based used in [2])
 4. Run the sim2D_main.py
+
+## Contributors and Maintainers
+Made Widhi Surya Atman and Muhamad Rausyan Fikri developed and maintained the environment and simulation from Intelligent Networked Systems (IINES) Group, Faculty of Engineering and Natural Sciences, Tampere University.
